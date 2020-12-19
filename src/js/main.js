@@ -39,7 +39,7 @@
         });
 
         var audioCtx;
-        var audioSrc = 'audio/es_intrepid_dye_o.mp3';
+        var audioSrc = 'audio/sonatina-in-g-major-by-ira.mp3';
         var source;
         var buffer;
 
