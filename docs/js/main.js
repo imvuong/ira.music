@@ -39,7 +39,7 @@
         });
 
         var audioCtx;
-        var audioSrc = 'https://raw.githubusercontent.com/imvuong/ira.music/master/dist/audio/sonatina-in-g-major-by-ira.mp3';
+        var audioSrc = 'https://raw.githubusercontent.com/imvuong/ira.music/master/docs/audio/sonatina-in-g-major-by-ira.mp3';
         var source;
         var buffer;
 
